@@ -1,0 +1,9 @@
+
+N
+java:S1128"1Remove this unused import 'java.util.Dictionary'.(¸Ûãó8³Ç¹Ù‚0
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó®ÙÇûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸í»ûÿÿÿÿ
+j
+java:S3824J"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ãÆïúûÿÿÿÿ8µ¶¹Ù‚0

@@ -1,0 +1,12 @@
+
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+z
+java:S1149+"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÚÌ÷úÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(óèĞØ
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ŞÙĞ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(óèĞØ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óèĞØ

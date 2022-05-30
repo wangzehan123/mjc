@@ -1,0 +1,8 @@
+
+r	java:S116"WRename this field "DEFAULT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ê½i8“ÛíÒ‚0
+d
+java:S1659"BDeclare "front" and all following declarations on a separate line.(ª¥¿Ÿÿÿÿÿÿ8“ÛíÒ‚0
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„àÀ–8“ÛíÒ‚0
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ­›…8“ÛíÒ‚0
+^
+java:S11269"AReplace this if-then-else statement by a single return statement.(°íÙÁ8“ÛíÒ‚0

@@ -1,0 +1,20 @@
+
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(•šê
+k
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Èâõ²ùÿÿÿÿ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦ƒìâ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Åïìè
+M	java:S106"9Replace this use of System.out or System.err by a logger.(£À 
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(—‚Ø
+
+E
+java:S1197>"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ŞŞÜµşÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ŞŞÜµşÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ÕŒ’øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ƒìâ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ƒìâ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åïìè

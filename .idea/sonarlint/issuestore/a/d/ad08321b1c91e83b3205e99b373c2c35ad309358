@@ -1,0 +1,13 @@
+
+[	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(ëè¡»
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(ó²âÂúÿÿÿÿ
+`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(¨›ü¶şÿÿÿÿ
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(…ûËğùÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ñ¾Ò«
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(„£‹ùÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(£§ùİøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ŒşŒàúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—¥®
